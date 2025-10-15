@@ -2,7 +2,7 @@ name: CI/CD to AWS EC2 Instance with Docker
 
 on:
   push:
-    branches:
+    branches: 
       - main 
 
 jobs:
